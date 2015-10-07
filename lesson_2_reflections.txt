@@ -19,3 +19,7 @@ How would branches help?
 	When you need to diverge your code, like implementing an experimental feature. 
 	Branches help creating a single space where the experimental feature is developed, 
 	while the master branch keep track of the rest of the tasks developed
+
+How do the diagrams help you visualize the branch structure?
+
+	An image is better than words
