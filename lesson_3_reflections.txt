@@ -6,3 +6,12 @@ Why might you want to always pull changes manually rather than having Git automa
 stay up-to-date with your remote repository?
 	
 	In case you want to work on something without syncing with master
+
+Describe the differences between forks, clones, and branches. When would you use 
+one instead of another?
+
+	Forks: copies inside Github
+	Clones: local or remote copies of repositories
+	Branches: diversions of commits
+
+	It depends on the situation. 
