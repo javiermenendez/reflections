@@ -15,3 +15,8 @@ one instead of another?
 	Branches: diversions of commits
 
 	It depends on the situation. 
+
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+	Don't really know. Would be harder without git or github, of course.
